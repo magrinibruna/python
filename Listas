@@ -1,0 +1,30 @@
+      #Lista
+#É uma lista onde a cada novo item, ele será colocado abaixo do anterior
+#Conjunto de dados mutáveis, ou seja, pode-se adicionar, remover ou alterar os elementos
+#Possui funções de organização, de inversão de ordem, extração de dados
+
+      #Pilha
+#Ao contrário da lista, quando adicionado um item, ele irá para o começo da lista.
+#É como se fosse uma pilha de livros, conforme você coloca um livro sobre um outro, o último livro fica em cima
+
+      #Array
+#Não é muito utilizado
+#Possui um indice(inteiro *começa no 0), com uma quantidade de itens finitos
+#(em tempo de execução não é possível adicionar dinamicamente) e cada Array possui um tipo de elemento
+
+      #Tupla
+#Igual uma lista, mas ela é imutável, ou seja, quando ela é guardada na memória, ela já vai com
+#o tamanho e os dados, e após a sua inicialização, não pode ter isso alterado
+
+      #Set
+#É uma lista mas que NÃO PODE TER ITENS REPETIDOS(valor, não tipo de dados. Ou seja,
+#pode-se adicionar 100 Strings mas essas 100 Strings não podem ter o mesmo valor)
+
+      #Dicionario
+#Lista mas que todo elemento tem uma chave (Map)
+# **dois elementos não podem ter a mesma chave
+
+      #Arvore
+#Estrutura disposta em uma hierarquia
+#O primeiro elemento da hierarquia (pai de todos) se chama raiz
+#Os elementos que derivam da raiz, são chamados de nó ou filho
